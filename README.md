@@ -18,8 +18,6 @@ I'm very curious about how things works and, because that, I always seek to lear
 
 <br/>  
 
-<table><tr><td valign="top" width="100%">
-
 - 🌍 I'm based in Recife, PE - Brazil.  
   
 
@@ -32,10 +30,7 @@ I'm very curious about how things works and, because that, I always seek to lear
 - 😉 Pronouns: Him/His  
   
 
-- ⚡ Fun fact: I love cats 😸  
-
-
-</td></tr></table>  
+- ⚡ Fun fact: I love cats 😸   
 
 <br/>  
 

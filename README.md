@@ -9,27 +9,20 @@
 </a>  
   
 
-
-
 ###  About me  
 I’m a person who loves to be challenged and to solve problems.
 I'm very curious about how things works and, because that, I always seek to learn more and more.  
-  
 
 <br/>  
 
 - 🌍 I'm based in Recife, PE - Brazil.  
   
-
 - 🧠 I’m currently learning Tests (JUnit 5, Mockito) and Spring Security  
   
-
 - 🤝 I'm looking to collaborate on backend projects  
   
-
 - 😉 Pronouns: Him/His  
   
-
 - ⚡ Fun fact: I love cats 😸   
 
 <br/>  

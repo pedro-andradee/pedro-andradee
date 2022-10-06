@@ -11,7 +11,7 @@
 
 ###  About me  
 I’m a person who loves to be challenged and to solve problems.
-I'm very curious about how things works and, because that, I always seek to learn more and more.  
+I'm very curious about how things works, so I'm always seeking to learn more and more.  
 
 <br/>  
 

@@ -17,7 +17,7 @@ I'm very curious about how things works, so I'm always seeking to learn more and
 
 - 🌍 I'm based in Recife, PE - Brazil.  
   
-- 🧠 I’m currently learning Tests (JUnit 5, Mockito) and Spring Security  
+- 🧠 I’m currently a FullStack Developer.  
   
 - 🤝 I'm looking to collaborate on backend projects  
   
